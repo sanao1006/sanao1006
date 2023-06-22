@@ -1,6 +1,4 @@
- Kotlin newbie
+ Kotlin love
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanao1006&hide=html,PHP&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanao1006&theme=dark&exclude=html)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanao1006&theme=dark)](https://git.io/streak-stats)
