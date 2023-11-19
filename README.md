@@ -8,4 +8,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanao1006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[LAPRAS PROFILE](https://lapras.com/public/sanao1006)
+- [scrapbox](https://scrapbox.io/sanasana/)
+- [LAPRAS PROFILE](https://lapras.com/public/sanao1006)
